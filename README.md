@@ -10,11 +10,11 @@ Face recognition Web Application
 - Pillow
 - numPy
 
-To Install dependencies:
+## To Install dependencies:
 '''pip install -r requirements.txt'''
 
 
-To Launch the Application: 
+## To Launch the Application: 
 
 '''python server.py'''
 
