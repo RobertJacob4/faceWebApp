@@ -21,4 +21,5 @@ pip install -r requirements.txt
 '''
 python server.py
 '''
-
+ # link for demo video
+https://youtu.be/JaHL-516lUA
